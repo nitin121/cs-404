@@ -1,3 +1,15 @@
+#Comment from Mark A. Yoder
+
+# Demo       5
+# ReadMe.txt 5
+# Fritzing   0 - Appears copied
+# Code       5  - How well the the proximity sensor work?
+# Table      0 - Appears copied
+
+Grade:  15/25
+
+================================================
+
 
   From :KARRE NITIN
         B13125
