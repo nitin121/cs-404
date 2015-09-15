@@ -1,3 +1,9 @@
+Prof. Yoder comments
+Please see requirements for memo format and resubmit.
+Note:  Each lab partner writes their own ReadMe.txt.
+
+=============================================
+
 fade.js
 	it contains code for increasing brightness of a led while decreasing the brightness of the other led
 

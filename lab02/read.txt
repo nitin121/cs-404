@@ -1,1 +1,5 @@
-this is code for controlling two leds using switch
+Prof. Yoder comments
+Please use a memo format as stated in the lab description.
+Did you do only one variation?
+
+========================this is code for controlling two leds using switch
