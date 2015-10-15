@@ -1,4 +1,16 @@
- 														Date:20/09/2015
+#Comment from Mark A. Yoder
+# Your code looks like mine, no changes were made
+# The hc-sr-04 isn't an i2c 
+# You are to write your own ReadMe.txt, don't use the same as your partner.
+
+# Demo       5
+# ReadMe.txt 3
+# Fritzing   0
+# Code       0
+# Table      0
+
+# Grade 8/25
+Date:20/09/2015
  
  To   :Mark Yoder
   From :KARRE NITIN
