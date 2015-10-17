@@ -5,8 +5,8 @@ var port='/dev/i2c-2'
 var  matrix=0X70;
 var time=1000;
 
-var fg='P9_23';
-b.pinMode(fg,b.INPUT);
+var switc='P9_23';
+b.pinMode(switc,b.INPUT);
 
 
 
@@ -32,7 +32,7 @@ setInterval(check, 20)
 
 function check()
 {
-	b.digitalRead(fg, check1);
+	b.digitalRead(switc, check1);
 }
 
 function check1(x)
