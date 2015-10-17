@@ -5,3 +5,4 @@
         B13125
   Subject:lab04 (led matrix)
 This lab is about using i2c to connect led matrix to beaglebone,ledmatrix.js contains code for connecting 8*8 bicolour led matrix to i2c of beaglebone to display different faces on led matrix,test.js we displayed etch a sketch on led matrix
+matrix_button.js contains code to display various faces on led matrix when a switch is pressed
