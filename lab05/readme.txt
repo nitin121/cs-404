@@ -11,4 +11,5 @@ Ultrasonic sensor Reading (in cm)                       Actual Distance ( in cm)
 			           7.5						8.5						
 			           8.5						9.7						
 			           10						11.3					
-
+				   15                                            18
+				   18                                           19.8
